@@ -1,0 +1,12 @@
+C:\Users\julia_000\SkyDrive\Visual Studio 2013\Projects\CardToGPS\CardToGPS\bin\Debug\CardToGPS.exe.config
+C:\Users\julia_000\SkyDrive\Visual Studio 2013\Projects\CardToGPS\CardToGPS\obj\Debug\CardToGPS.csprojResolveAssemblyReference.cache
+C:\Users\julia_000\SkyDrive\Visual Studio 2013\Projects\CardToGPS\CardToGPS\bin\Debug\CardToGPS.exe
+C:\Users\julia_000\SkyDrive\Visual Studio 2013\Projects\CardToGPS\CardToGPS\bin\Debug\CardToGPS.pdb
+C:\Users\julia_000\SkyDrive\Visual Studio 2013\Projects\CardToGPS\CardToGPS\obj\Debug\CardToGPS.exe
+C:\Users\julia_000\SkyDrive\Visual Studio 2013\Projects\CardToGPS\CardToGPS\obj\Debug\CardToGPS.pdb
+C:\Users\Jules\SkyDrive\Visual Studio 2013\Projects\CardToGPS\CardToGPS\bin\Debug\CardToGPS.exe.config
+C:\Users\Jules\SkyDrive\Visual Studio 2013\Projects\CardToGPS\CardToGPS\obj\Debug\CardToGPS.exe
+C:\Users\Jules\SkyDrive\Visual Studio 2013\Projects\CardToGPS\CardToGPS\obj\Debug\CardToGPS.pdb
+C:\Users\Jules\SkyDrive\Visual Studio 2013\Projects\CardToGPS\CardToGPS\bin\Debug\CardToGPS.exe
+C:\Users\Jules\SkyDrive\Visual Studio 2013\Projects\CardToGPS\CardToGPS\bin\Debug\CardToGPS.pdb
+C:\Users\Jules\SkyDrive\Visual Studio 2013\Projects\CardToGPS\CardToGPS\obj\Debug\CardToGPS.csprojResolveAssemblyReference.cache
